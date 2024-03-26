@@ -1,0 +1,11 @@
+//
+
+
+..................|..................|..................|..................
+                x=400              x=800              x=1200        and so on
+
+what i all need to be saved as progress are:
+    1.inventory items
+    2.meet record  for conversatation
+    3. and player recently passes check point
+
